@@ -1,7 +1,7 @@
 
 *** 
 <div align=center>
-  <font size="5">Red Team - Penetration Testing</font>
+  <font size="30">Red Team - Penetration Testing</font>
 </div>
 
 ***
