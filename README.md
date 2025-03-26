@@ -1,6 +1,6 @@
 
 *** 
-<div align=center style="font-size=40px">
+<div align=center>
   Red Team - Penetration Testing
 </div>
 
