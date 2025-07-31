@@ -13,4 +13,4 @@ Hack the Box Machine Reviews
 </div>
 
 ***
-+ -*Things still developing you can reach my blog on [pixrei.xyz](pixrei.xyz)*-
++ -*Things still developing you can reach my blog on [pixrei.xyz](https://pixrei.xyz)*-
