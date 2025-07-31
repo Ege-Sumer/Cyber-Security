@@ -13,4 +13,4 @@ Hack the Box Machine Reviews
 </div>
 
 ***
-+ You can reach Xmind notes with this [link]() -*Things still developing you can reach my blog on pixrei.xyz*-
++ -*Things still developing you can reach my blog on [](pixrei.xyz)*-
