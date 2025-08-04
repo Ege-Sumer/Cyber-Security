@@ -74,7 +74,7 @@ CyberScan Pro is a powerful, Python-based network security scanner designed for 
 
 ### Quick Install (Recommended)
 
-```
+```bash
 # Clone the repository
 git clone https://github.com/ege-sumer/Cyber-Security/tree/main/cyberscan.git
 cd cyberscan
@@ -469,6 +469,7 @@ python3 cyberscan.py 192.168.1.1
 - Proof-of-concept development
 
 ---
+
 
 
  [Star this repo](https://github.com/ege-sumer/Cyber-Security/tree/main/cyberscan) |  [Fork it](https://github.com/ege-sumer/Cyber-Security/tree/main/cyberscan/fork) |  [Share it](https://twitter.com/intent/tweet?text=Check%20out%20CyberScan%20Pro%20-%20Advanced%20Network%20Security%20Scanner!)
