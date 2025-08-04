@@ -86,7 +86,7 @@ chmod +x install.sh
 
 ### Manual Installation
 
-```
+```bash
 # Create virtual environment (recommended)
 python3 -m venv cyberscan-env
 source cyberscan-env/bin/activate  # Linux/Mac
@@ -193,7 +193,7 @@ Security Score: 75/100 (GOOD)
 -  Remediation recommendations
 
 ### JSON Report Structure
-```
+```json
 {
   "scan_info": {
     "target": "192.168.1.100",
@@ -278,7 +278,7 @@ beautifulsoup4>=4.11.0  # HTML parsing
 ##  Configuration
 
 ### Default Port Lists
-```
+```python
 # Standard ports (default)
 COMMON_PORTS = [21, 22, 23, 25, 53, 80, 110, 135, 139, 143, 443, 993, 995, 1433, 3389, 5432]
 
@@ -358,7 +358,7 @@ We welcome contributions from the cybersecurity community!
 - Add security considerations for new checks
 
 ### Development Setup
-```
+```bash
 # Clone and setup development environment
 git clone https://github.com/ege-sumer/Cyber-Security/tree/main/cyberscan.git
 cd cyberscan-pro
@@ -473,3 +473,4 @@ python3 cyberscan.py 192.168.1.1
 
 
  [Star this repo](https://github.com/ege-sumer/Cyber-Security/tree/main/cyberscan) |  [Fork it](https://github.com/ege-sumer/Cyber-Security/tree/main/cyberscan/fork) |  [Share it](https://twitter.com/intent/tweet?text=Check%20out%20CyberScan%20Pro%20-%20Advanced%20Network%20Security%20Scanner!)
+
