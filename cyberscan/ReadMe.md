@@ -12,18 +12,18 @@
 
 ##  Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Examples](#-examples)
-- [Output Reports](#-output-reports)
-- [Security Checks](#-security-checks)
-- [Requirements](#-requirements)
-- [Configuration](#-configuration)
-- [Legal Notice](#-legal-notice)
-- [Contributing](#-contributing)
-- [License](#-license)
+- Overview
+- Features
+- Installation
+- Usage
+- Examples
+- Output Reports
+- Security Checks
+- Requirements
+- Configuration
+- Legal Notice
+- Contributing
+
 
 ---
 
@@ -473,4 +473,5 @@ python3 cyberscan.py 192.168.1.1
 
 
  [Star this repo](https://github.com/ege-sumer/Cyber-Security/tree/main/cyberscan) |  [Fork it](https://github.com/ege-sumer/Cyber-Security/tree/main/cyberscan/fork) |  [Share it](https://twitter.com/intent/tweet?text=Check%20out%20CyberScan%20Pro%20-%20Advanced%20Network%20Security%20Scanner!)
+
 
